@@ -1,0 +1,11 @@
+.background-image {
+    background-image: url('./assets/IMG2.JPG');
+    background-size: contain;
+   background-position: center;
+    width: 50;
+    height: 700px;
+  }
+  .name{
+    color: white;
+  }
+  
